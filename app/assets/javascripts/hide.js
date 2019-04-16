@@ -3,3 +3,5 @@ function hideWhenClicked(){
     $(this).hide();
   });
 }
+
+hideWhenClicked();
