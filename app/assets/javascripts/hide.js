@@ -4,4 +4,4 @@ function hideWhenClicked(){
   });
 }
 
-// hideWhenClicked();
+hideWhenClicked();
